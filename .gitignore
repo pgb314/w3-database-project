@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+password_sql.txt
+
+*.csv
 # C extensions
 *.so
 

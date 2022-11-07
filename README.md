@@ -27,8 +27,13 @@
 
 
 
-### 3. Export new clean csv files to your data
+### 3a. Create database with create engine from jupyter notebook
+### 3b. Create relationships between each dataframe(table) in SQL
+### 3c. From python export all dataframes with a connector to our sql database being careful of the order between the relationships
+
+
 ### 4. Create new database
+### 5. Create queries
 
 
 
