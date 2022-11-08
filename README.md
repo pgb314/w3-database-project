@@ -29,6 +29,13 @@
 
 ### 3a. Create database with create engine from jupyter notebook
 ### 3b. Create relationships between each dataframe(table) in SQL
+
+
+![200187214-eb550106-8360-4746-9739-79d9131127ab](https://user-images.githubusercontent.com/114666478/200506149-b079e44c-bdbd-4f15-b204-a88820e2a6a6.png)
+
+
+
+
 ### 3c. From python export all dataframes with a connector to our sql database being careful of the order between the relationships
 
 
